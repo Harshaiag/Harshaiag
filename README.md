@@ -1,8 +1,8 @@
 
 
-
-<div align="center">
-  <h2 >Hello There</h2>
+<div align="center" style="font-family: 'Goudy Old Style', serif;">
+  <h2 style="font-weight: bold;">Hello There! </h2>
+  <h2 style="font-family: Arial, sans-serif; color: #4A5568;">Welcome to my Github profile</h2>
 </div>
 
 
@@ -37,13 +37,18 @@
 
 
 <div align="center" style="background-color: #F9FAFB; border-radius: 10px; padding: 20px;">
-    <h2 style="font-family: Arial, sans-serif; color: #4A5568;">Welcome to my Github profile</h2>
     <p style="font-family: Arial, sans-serif; font-size: 18px; color: #4A5568;">Feel free to clone or fork my projects, as well as raise issues and submit PRs if you see areas for improvement.</p>
     <p style="font-family: Arial, sans-serif; font-size: 18px; color: #4A5568;">If you have any questions, please don't hesitate to ask me by clicking <a href="mailto:harshavardhansmcb@gmail.com" style="color: #2D3748; text-decoration: none;"><b>here</b></a> </p>
     <p style="font-family: Arial, sans-serif; font-size: 18px; color: #4A5568;">I'm always happy to help!</p>
     <p style="font-family: Arial, sans-serif; font-size: 18px; color: #4A5568;">Let's make coding fun!</p>
-    <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" alt="Programmer Gif" style="width: 300px;">
 </div>
+
+
+<h2 align="center"> Thanks for visiting my profile. </h2>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
+
 
 
 
