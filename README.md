@@ -30,7 +30,7 @@
 
 <div align="center">
   <h3>🏆 Github Stats:</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=harshaiag&count_private=true&show_icons=true&theme=onedark&include_all_commits=true" alt="My Stats" width="500">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshaiag&count_private=true&show_icons=true&theme=onedark&include_all_commits=true" alt="My Stats" width="600">
 </div>
 
 
