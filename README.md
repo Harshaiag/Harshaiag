@@ -37,10 +37,12 @@
 
 
 <div align="center" style="background-color: #F9FAFB; border-radius: 10px; padding: 20px;">
-    <p style="font-family: Arial, sans-serif; font-size: 18px; color: #4A5568;">Feel free to clone or fork my projects, as well as raise issues and submit PRs if you see areas for improvement.</p>
-    <p style="font-family: Arial, sans-serif; font-size: 18px; color: #4A5568;">If you have any questions, please don't hesitate to ask me by clicking <a href="mailto:harshavardhansmcb@gmail.com" style="color: #2D3748; text-decoration: none;"><b>here</b></a> </p>
-    <p style="font-family: Arial, sans-serif; font-size: 18px; color: #4A5568;">I'm always happy to help!</p>
-    <p style="font-family: Arial, sans-serif; font-size: 18px; color: #4A5568;">Let's make coding fun!</p>
+    <p style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 18px; color: #2D3748;"><strong>Feel free to clone or fork my projects,</strong></p>
+    <p style="font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; font-size: 18px; color: #2D3748;"><strong>as well as raise issues and submit PRs if you see areas for improvement.</strong></p>
+    <p style="font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif; font-size: 18px; color: #2D3748;"><strong>If you have any questions,</strong></p>
+    <p style="font-family: 'Segoe Print', 'Segoe Script', sans-serif; font-size: 18px; color: #2D3748;"><strong>please don't hesitate to ask me by clicking <a href="mailto:harshavardhansmcb@gmail.com" style="color: #4A5568; text-decoration: none;">here</a></strong></p>
+    <p style="font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; font-size: 18px; color: #2D3748;"><strong>I'm always happy to help!</strong></p>
+    <p style="font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif; font-size: 18px; color: #2D3748;"><strong>Let's make coding fun!</strong></p>
 </div>
 
 
