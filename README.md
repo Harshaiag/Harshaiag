@@ -25,14 +25,14 @@
     <li>:zap: Fun fact: Did you know that there is a famous bug in the game Civilization, called the 'Nuclear Gandhi' bug? Due to a coding error, if Gandhi, a famously peaceful leader, became too friendly and achieved a high enough peace score, his aggression would go negative and wrap around to the highest possible value, turning him into a nuclear warmonger!</li>
     <li>:musical_note: Also, if you see me wearing pink headphones, I'm probably listening to Pink Floyd's 'Dark Side of the Moon'. But don't worry, I won't turn into a nuclear warmonger like Gandhi!</li>
 </ul>
-<h2 align="left">:heart: Let's get connected</h2>
 
 </div>
 
 <div align="center">
   <h3>🏆 Github Stats:</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=harshaiag&count_private=true&show_icons=true&theme=onedark&include_all_commits=true" alt="My Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=harshaiag&count_private=true&show_icons=true&theme=onedark&include_all_commits=true" alt="My Stats" width="500">
 </div>
+
 
 
 <div align="center" style="background-color: #F9FAFB; border-radius: 10px; padding: 20px;">
