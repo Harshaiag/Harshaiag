@@ -29,7 +29,10 @@
 
 </div>
 
-
+<div align = "center">
+### 🏆 Github Stats:
+![My Stats](https://github-readme-stats.vercel.app/api?username=harshaiag&count_private=trueshow_icons=true?theme=onedark?include_all_commits)
+</div>
 
 <div align="center" style="background-color: #F9FAFB; border-radius: 10px; padding: 20px;">
     <h2 style="font-family: Arial, sans-serif; color: #4A5568;">Welcome to my Github profile</h2>
