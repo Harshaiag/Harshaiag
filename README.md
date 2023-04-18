@@ -4,7 +4,7 @@
 
 <div align="center" width="50">
 
-<img src="https://tenor.com/view/pink-floyd-album-rnr-gif-8695684" alt="Welcome!" width="300"/>
+<img src="https://github.com/Harshaiag/Harshaiag/blob/main/gif.gif" alt="Welcome!" width="300"/>
 
 </div>
 
