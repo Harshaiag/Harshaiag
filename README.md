@@ -1,6 +1,7 @@
 <div align="center">
-<h2> 𝐇𝐞𝐥𝐥𝐨 T𝐡𝐞𝐫𝐞</h2>
+  <h2 style="animation: wiggle 2s ease-in-out infinite;">Hello There</h2>
 </div>
+
 
 <div align="center" width="50">
 
