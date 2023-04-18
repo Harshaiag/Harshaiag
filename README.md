@@ -18,7 +18,7 @@
     <li>:rocket: I was part of the winning team at the Aston Hack 2023 Hackathon held at Aston University</li>
     <li>:computer: I have more than three years of experience in Java and Python</li>
     <li>:dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"</li>
-    <li>:zap: Fun fact: I love to attend tech events and meetups for learning and networking</li>
+    <li>:zap: Fun fact: Did you know that there is a famous bug in the game Civilization, called the 'Nuclear Gandhi' bug? Due to a coding error, if Gandhi, a famously peaceful leader, became too friendly and achieved a high enough peace score, his aggression would go negative and wrap around to the highest possible value, turning him into a nuclear warmonger!</li>
 </ul>
 <h2 align="left">:heart: Let's get connected:</h2>
 
