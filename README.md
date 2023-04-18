@@ -8,11 +8,7 @@
 
 </div>
 
-<script>
-function revealEmail() {
-  document.getElementById("email").style.display = "block";
-}
-</script>
+<script src="script.js"></script>
 
 <div align="center" style="background-color: #F9FAFB; border-radius: 10px; padding: 20px;">
     <h2 style="font-family: Arial, sans-serif; color: #4A5568;">Welcome to my Github profile</h2>
