@@ -8,7 +8,7 @@
 
 </div>
 
-<script src="script.js"></script>
+<script src="https://github.com/Harshaiag/Harshaiag/blob/main/script.js"></script>
 
 <div align="center" style="background-color: #F9FAFB; border-radius: 10px; padding: 20px;">
     <h2 style="font-family: Arial, sans-serif; color: #4A5568;">Welcome to my Github profile</h2>
