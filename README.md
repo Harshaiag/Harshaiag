@@ -23,7 +23,7 @@
     <li>:computer: I have more than three years of experience in Java and Python</li>
     <li>:dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"</li>
     <li>:zap: Fun fact: Did you know that there is a famous bug in the game Civilization, called the 'Nuclear Gandhi' bug? Due to a coding error, if Gandhi, a famously peaceful leader, became too friendly and achieved a high enough peace score, his aggression would go negative and wrap around to the highest possible value, turning him into a nuclear warmonger!</li>
-    <li>:musical_note: Also, if you see me wearing pink headphones, I'm probably listening to Pink Floyd's 'Dark Side of the Moon'. But don't worry, I won't turn into a nuclear warmonger like Gandhi!</li>
+    <li>:musical_note: Also, if you see me wearing headphones, I'm probably listening to Pink Floyd's 'Dark Side of the Moon'. But don't worry, I won't turn into a nuclear warmonger like Gandhi!</li>
 </ul>
 
 </div>
