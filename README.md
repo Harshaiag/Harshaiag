@@ -8,6 +8,12 @@
 
 </div>
 
+<script>
+function revealEmail() {
+  document.getElementById("email").style.display = "block";
+}
+</script>
+
 <div align="center" style="background-color: #F9FAFB; border-radius: 10px; padding: 20px;">
     <h2 style="font-family: Arial, sans-serif; color: #4A5568;">Welcome to my Github profile</h2>
     <p style="font-family: Arial, sans-serif; font-size: 18px; color: #4A5568;">Feel free to clone or fork my projects, as well as raise issues and submit PRs if you see areas for improvement.</p>
@@ -18,8 +24,4 @@
     <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" alt="Programmer Gif" style="width: 300px;">
 </div>
 
-<script>
-function revealEmail() {
-  document.getElementById("email").style.display = "block";
-}
-</script>
+
