@@ -1,6 +1,5 @@
-<head>
-  <link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/Harshaiag/Harshaiag/main/css.css">
-</head>
+
+<link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/Harshaiag/Harshaiag/main/css.css">
 
 
 
