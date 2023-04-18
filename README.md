@@ -1,22 +1,6 @@
 <div align="center">
-    <h2 style="font-family: Arial, sans-serif; font-size: 40px; color: #4A5568; animation: pulse 2s ease-in-out infinite;">
-        𝐇𝐞𝐥𝐥𝐨 T𝐡𝐞𝐫𝐞
-    </h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 T𝐡𝐞𝐫𝐞</h2>
 </div>
-
-<style>
-    @keyframes pulse {
-        0% {
-            transform: scale(1);
-        }
-        50% {
-            transform: scale(1.2);
-        }
-        100% {
-            transform: scale(1);
-        }
-    }
-</style>
 
 <div align="center" width="50">
 
