@@ -1,8 +1,8 @@
 
 
 <div align="center" style="font-family: 'Goudy Old Style', serif;">
-  <h2 style="font-weight: bold;">Hello There! </h2>
-  <h2 style="font-family: Arial, sans-serif; color: #4A5568;">Welcome to my Github profile</h2>
+  <h2 style="font-weight: bold;">Hello There! <br> Welcome to my Github profile</h2>
+  
 </div>
 
 
