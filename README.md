@@ -4,7 +4,7 @@
 
 <div align="center" width="50">
 
-<img src="https://github.com/Harshaiag/Harshaiag/blob/main/gif.gif" alt="Welcome!" width="300"/>
+<img src="https://media0.giphy.com/media/3rKFa4ZXBGqg9xND44/giphy.gif?cid=ecf05e47imot2hlytcysrvah1fe8cv0137zvebtoi9sxqj78&rid=giphy.gif&ct=g" alt="Welcome!" width="300"/>
 
 </div>
 
