@@ -39,7 +39,7 @@
 
 <div align="center" style="background-color: #F9FAFB; border-radius: 10px; padding: 20px;">
     <p style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 18px; color: #2D3748;"><strong>Feel free to clone or fork my projects,</strong></p>
-    <p style="font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; font-size: 18px; color: #2D3748;"><strong>as well as raise issues and submit PRs if you see areas for improvement.</strong></p>
+    <p style="font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; font-size: 18px; color: #2D3748;"><strong>As well as raise issues and submit PRs if you see areas for improvement.</strong></p>
     <p style="font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif; font-size: 18px; color: #2D3748;"><strong>If you have any questions, please don't hesitate to ask me by clicking <a href="mailto:harshavardhansmcb@gmail.com" style="color: #4A5568; text-decoration: none;">here</a></strong></p>
     <p style="font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif; font-size: 18px; color: #2D3748;"><strong>I'm always happy to help!</strong></p>
     <p style="font-family: 'Palatino Linotype', 'Book Antiqua', Palatino, serif; font-size: 18px; color: #2D3748;"><strong>Let's make coding fun!</strong></p>
